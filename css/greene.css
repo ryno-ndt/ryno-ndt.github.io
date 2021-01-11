@@ -1,0 +1,48 @@
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Raleway&family=Work+Sans&display=swap');
+
+/*Universal Styles*/
+* {
+     font-family: 'Nunito', sans-serif !important;
+}
+body {
+    background-color: rgb(235, 235, 235);
+    color: rgb(80, 80, 80);
+}
+.text-blue {
+    color: rgb(50, 90, 130);
+}
+.text-green {
+    color: rgb(50 ,130, 130);
+}
+.text-lrg {
+    font-size: 1.2em;
+}
+.text-xl {
+    font-size: 1.4em;
+}
+a .text-blue :hover{
+    color: rgb(50, 90, 130) !important;
+}
+.social-icons:hover {
+    color: rgb(50, 90, 130) !important;
+}
+ul {
+    list-style-type: none;
+}
+
+/*Colors*/
+.ut-green {
+    color: rgb(0, 150, 0);
+}
+.pt-red {
+    color: rgb(150, 0, 0);
+}
+.mt-black {
+    color: black;
+}
+.flask-blue {
+    color: rgb(190, 140, 0);
+}
+/*Nav*/
